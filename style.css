@@ -5,3 +5,7 @@ body {
 p { 
     color: azure;
 }
+
+.vermelho {
+    font-style: italic;
+}
