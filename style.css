@@ -7,7 +7,7 @@ nav a {
     padding: 2px;
     font-size: 20px;
     text-decoration: none;
-    color: rgba(red, green, blue, alpha)
+    color:rgba(red, green, blue, alpha);
     display: flex;
   justify-content: center;
 }
