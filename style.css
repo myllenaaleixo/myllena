@@ -16,6 +16,12 @@ p {
     color: azure;
 }
 
+.categoria-videos img {
+    opacity: 0.6;
+}
+
+
+
 
 .vermelho {
     font-style: italic;
