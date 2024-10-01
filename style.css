@@ -16,13 +16,20 @@ p {
     color: azure;
 }
 
+
 .vermelho {
     font-style: italic;
 }
+
+
 .img1 {
     width: 70%
 }
 .centro{
     text-align: justify;
+}
+
+img {
+    height: 200px;
 }
 
